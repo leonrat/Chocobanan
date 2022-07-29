@@ -1,4 +1,4 @@
-16949982416205133
+16951641102168368
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74135,6 +74135,13 @@ Resitance 3 pas
 R
 0
 6
+2
+kbd
+D3_TH_SMD_only_back
+Resitance 3 pas
+R
+0
+4
 2
 kbd
 D3_TH_SMD_v2
