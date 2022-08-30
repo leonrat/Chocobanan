@@ -41,7 +41,7 @@ U 1 1 62EFA357
 P 1700 2150
 F 0 "U1" H 1700 2987 60  0000 C CNN
 F 1 "ProMicro" H 1700 2881 60  0000 C CNN
-F 2 "keebio-parts:ArduinoProMicro" V 2750 -350 60  0001 C CNN
+F 2 "kbd:ArduinoProMicro_centered" V 2750 -350 60  0001 C CNN
 F 3 "" V 2750 -350 60  0001 C CNN
 	1    1700 2150
 	1    0    0    -1  
