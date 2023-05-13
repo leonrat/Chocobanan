@@ -1,4 +1,4 @@
-21295970853557281
+21269130041953374
 Alps_Only
 ALPS-1.5U
 
@@ -50414,6 +50414,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 3
 3
 Custom_footprints_Léon
+ArduinoProMicro_centered
+
+
+0
+24
+24
+Custom_footprints_Léon
 Pimoroni_trackpoint
 
 
@@ -56818,125 +56825,6 @@ KailhChoc-1U-noLed
 0
 2
 2
-Kicad-Footprints-main
-Choc_Mini_PG1232_Choc_Spacing_dual_ease
-
-
-0
-6
-4
-Kicad-Footprints-main
-Kailh_PG1232
-
-
-0
-6
-4
-Kicad-Footprints-main
-Kailh_socket_PG1350_reversible
-Kailh "Choc" PG1350 keyswitch reversible socket mount
-kailh,choc
-0
-4
-2
-Kicad-Footprints-main
-ProMicro_v3_ble
-
-
-0
-26
-26
-Kicad-Footprints-main
-ProMicro_v3_nn
-
-
-0
-26
-26
-Kicad-Footprints-main
-SPDT_C128955
-
-
-0
-7
-4
-Kicad-Footprints-main
-SPDT_C128955r
-
-
-0
-7
-4
-Kicad-Footprints-main
-SW_PG1350_15_reversible_b2
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-3
-2
-Kicad-Footprints-main
-SW_PG1350_b2
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-2
-2
-Kicad-Footprints-main
-SW_PG1350_cut
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-0
-0
-Kicad-Footprints-main
-SW_PG1350_reversible_b
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-3
-2
-Kicad-Footprints-main
-SW_PG1350_reversible_b2
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-3
-2
-Kicad-Footprints-main
-SW_PG1350_single_b2
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-2
-2
-Kicad-Footprints-main
-SW_PG1350b
-Kailh "Choc" PG1350 keyswitch
-kailh,choc
-0
-2
-2
-Kicad-Footprints-main
-SW_PG1350v
-Kailh "Choc" PG1350 keyswitch
-kailh,choc
-0
-2
-2
-Kicad-Footprints-main
-pimoroni_trackball
-Pimoroni I2C trackball breakout
-Through hole pin header THT 1x05 2.54mm single row
-0
-5
-5
-Kicad-Footprints-main
-pimoroni_trackball_reversible
-Pimoroni I2C trackball breakout
-Through hole pin header THT 1x05 2.54mm single row
-0
-10
-5
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf

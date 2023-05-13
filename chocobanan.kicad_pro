@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.95,
-          "width": 1.3
+          "drill": 1.47,
+          "height": 2.25,
+          "width": 2.25
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|119924366|50756222|ef76d21c-7463-4aaa-83cd-f587b24c8e6c|e75b40fd-a760-46c2-b78a-6e83f0e50b3b",
+        "hole_clearance|57551662|60726791|ef39ad90-eaff-4e29-b936-8a775dfa9bae|f5ce3b69-97bc-475b-8d78-99b6bb9e6f39",
+        "hole_near_hole|56585685|57977280|ef39ad90-eaff-4e29-b936-8a775dfa9bae|f5ce3b69-97bc-475b-8d78-99b6bb9e6f39"
+      ],
       "meta": {
         "version": 2
       },
@@ -422,7 +426,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "chocobanan.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
