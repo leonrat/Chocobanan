@@ -2,7 +2,7 @@
   "name":"chocobanan",
   "vendorId":"0x4c52",
   "productId":"0x0000",
-  "lighting": "none",
+  "lighting": "vialrgb",
   "matrix": {
       "rows": 4,
       "cols": 6
